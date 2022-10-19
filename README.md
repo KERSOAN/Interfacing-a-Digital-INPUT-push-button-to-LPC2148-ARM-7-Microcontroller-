@@ -1,9 +1,6 @@
-# Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
+# EX-03-Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
 
 
-Ex. No. : 3
-
- 
 ### Aim: To Interface a Digital input (pushbutton ) to LPC2148 ARM 7 and write a code to switch on and of an LED 
 Components required:
           Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
